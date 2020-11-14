@@ -3,8 +3,6 @@
  * Classe per la gestione del JSON Web Token
  */
 
-namespace Farm\Libraries;
-
 class JWT
 {
     /**
