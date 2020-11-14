@@ -1,0 +1,13 @@
+{
+    "name": "sam-sepi/jwt-php-lib",
+    "description": "PHP library for JWT",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sam sepi",
+            "email": "sam.sepi.84@gmail.com"
+        }
+    ],
+    "require": {}
+}
